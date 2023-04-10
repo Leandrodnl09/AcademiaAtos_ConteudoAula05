@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\bin\Debug\net6.0\AcademiaAtos_ConteudoAula05.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\bin\Debug\net6.0\AcademiaAtos_ConteudoAula05.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\bin\Debug\net6.0\AcademiaAtos_ConteudoAula05.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\bin\Debug\net6.0\AcademiaAtos_ConteudoAula05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\bin\Debug\net6.0\AcademiaAtos_ConteudoAula05.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\refint\AcademiaAtos_ConteudoAula05.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\AcademiaAtos_ConteudoAula05.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula05\AcademiaAtos_ConteudoAula05\obj\Debug\net6.0\ref\AcademiaAtos_ConteudoAula05.dll
